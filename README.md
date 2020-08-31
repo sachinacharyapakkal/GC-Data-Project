@@ -6,12 +6,19 @@ This Repository contains 3 files.
 Script does the following actions
 
 a.Loading of necessary libraries
+
 b.Downloading the Data from website
+
 c.unzip the zipped file
+
 d.Extracting the datasets
+
 e.Merging the Test and Train Datasets
+
 f.Changing the Label of activities to descriptive names
+
 g.Labeling the variable names in descriptive form 
+
 h.Creating Tidy Data set 
 
 2.TidyData.txt - Text file containing final Tidy Data 
