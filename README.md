@@ -3,6 +3,7 @@ Repository Information
 This Repository contains 3 files.
 
 1.run_analysis.R - Script contains the code to convert given raw data sets of the Course project to Tidy data set.
+
 Script does the following actions
 
 a.Loading of necessary libraries
